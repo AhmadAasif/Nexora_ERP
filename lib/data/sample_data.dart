@@ -87,7 +87,7 @@ const List<ProductRecord> sampleProducts = <ProductRecord>[
     stock: 5,
     price: 1299,
     sold: 121,
-    icon: Icons.light_rounded,
+    icon: Icons.lightbulb_outline_rounded,
     tint: Color(0xFFFFF2DF),
   ),
   ProductRecord(
